@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "最近输入的十条命令"
+tail -n 10 ~/.bash_history
